@@ -1,0 +1,45 @@
+name: Profile 3D contributions
+
+on:
+  schedule:
+    - cron: '17 23 * * *' # 04:17 Tashkent
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: update-profile
+  cancel-in-progress: false
+
+jobs:
+  render:
+    if: github.repository == 'mehroj-r/mehroj-r'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out default branch
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          # Full history, so publish_single_commit.sh can tell whether it is already one commit.
+          fetch-depth: 0
+
+      # USER_TOKEN (classic PAT: read:user, repo) adds private contributions to the
+      # radar and language ring. Without it only public activity is counted.
+      - name: Render 3D contribution chart
+        uses: yoshi389111/github-profile-3d-contrib@7d95e7d4cdc028dd1e1cbd957d65f35efb12ae39 # v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.USER_TOKEN || github.token }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/profile-3d-contrib.json
+
+      - name: Publish as the repository's only commit
+        env:
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          git add -- profile-3d-contrib
+          bash scripts/publish_single_commit.sh "$DEFAULT_BRANCH"
