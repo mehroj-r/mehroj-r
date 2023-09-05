@@ -1,4 +1,4 @@
-<h1 align="center" style="margin: 0px; padding: 0px;" >
+<h1 align="center" >
 	<a href="https://github.com/mehroj-r">
 		<img style="vertical-align: top; padding: 5px 0px 0px 0px;" src="/images/download.svg"/>
 	</a>
@@ -17,11 +17,11 @@
 </p>
 <p align="center"> 
 	<a href="https://www.linkedin.com/in/mehroj-r/">
-		<img src="/images/linkedin.svg" style="border-radius: 5px" height=23>
+		<img src="/images/linkedin.svg" height=23>
 	</a>
 	<a href="mailto:mekhrojmajidov@gmail.com">
-		<img src="/images/gmail.svg" style="border-radius: 5px" height=23>
+		<img src="/images/gmail.svg" height=23>
 	</a>
 	<a href="https://t.me/r_mekhroj">
-		<img src="/images/telegram.svg" style="border-radius: 5px" height=23></a>
+		<img src="/images/telegram.svg" height=23></a>
 </p>
