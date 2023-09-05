@@ -1,9 +1,7 @@
 <h1 align="center" style="margin: 0px; padding: 0px;" >
-	<img align="center" src="https://media.giphy.com/media/ClvsRDGhQzExmsuEs3/giphy.gif"  width="50" height="40" style="vertical-align: top; padding: 0px;">
 	<a href="https://git.io/typing-svg">
 		<img style="vertical-align: top; padding: 5px 0px 0px 0px;" src="https://readme-typing-svg.herokuapp.com?font=Exo+2&weight=800&duration=3000&pause=1000&color=7172F7&center=true&size=30&lines=This+is+Mehroj+Majidov;Hey%2C+I'm+Mehroj+Majidov"/>
 	</a>
-	<img align="center" src="https://media.giphy.com/media/ClvsRDGhQzExmsuEs3/giphy.gif"  width="50" height="40" style="vertical-align: top; padding: 0px">
 </h1>
 <br>
 <p align="center" >
