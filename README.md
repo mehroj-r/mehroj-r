@@ -1,5 +1,5 @@
 <h1 align="center" style="margin: 0px; padding: 0px;" >
-	<a href="https://git.io/typing-svg">
+	<a href="https://github.com/mehroj-r">
 		<img style="vertical-align: top; padding: 5px 0px 0px 0px;" src="/images/download.svg"/>
 	</a>
 </h1>
