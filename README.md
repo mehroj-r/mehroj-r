@@ -12,7 +12,7 @@
   <br>
    I am a coder and software enthusiast, and I am always eager to learn new things 
   <br>
-   I’m currently focusing on Data Sciense & AI
+   I’m currently focusing on Data Sciense & AI and Android Development
   <br>
 </p>
 <p align="center"> 
