@@ -42,12 +42,12 @@
 ## GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mehroj-r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mehroj-r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
   <img width="49%" src="https://streak-stats.demolab.com?user=mehroj-r&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehroj-r&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mehroj-r&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=mehroj-r&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+  <img width="98%" src="https://github-profile-trophy-eight.vercel.app/?username=mehroj-r&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
 </p>
 
 ## Extra Widgets
