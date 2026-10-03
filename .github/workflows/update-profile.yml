@@ -1,0 +1,54 @@
+name: Update profile
+
+on:
+  schedule:
+    - cron: '17 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: update-profile
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: github.repository == 'mehroj-r/mehroj-r'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out default branch
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+
+      - name: Set up Python
+        uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: '3.12'
+
+      - name: Run tests
+        run: python3 -m unittest discover -s tests
+
+      - name: Generate profile statistics
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/generate_stats.py --username mehroj-r
+
+      - name: Commit and push changed statistics
+        env:
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          git add -- images/generated docs/github-stats.md
+          if git diff --cached --quiet; then
+            printf 'No generated statistics changed.\n'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore: refresh profile statistics'
+          git push origin "HEAD:refs/heads/${DEFAULT_BRANCH}"

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="270" viewBox="0 0 480 270" role="img" aria-labelledby="title desc">
+<title id="title">Mehroj Majidov — software engineer</title>
+<desc id="desc">Building the backend behind it. Python, Django, Uzbekistan.</desc>
+<g font-family="DejaVu Sans, Segoe UI, Arial, sans-serif">
+<rect x="1" y="1" width="478" height="268" rx="16" fill="#ffffff" stroke="#d8dee8" stroke-width="1"/><text x="38" y="52" fill="#526078" font-size="12" font-weight="600" text-anchor="start">MEHROJ MAJIDOV  /  SOFTWARE ENGINEER</text><text x="36" y="113" fill="#172033" font-size="45" font-weight="700" text-anchor="start">Building the</text><text x="36" y="166" fill="#172033" font-size="45" font-weight="700" text-anchor="start">backend behind it.</text><rect x="38" y="190" width="48" height="3" rx="1" fill="#2a78d6" /><text x="38" y="228" fill="#526078" font-size="17" font-weight="400" text-anchor="start">Python · Django · Uzbekistan</text>
+</g>
+</svg>
