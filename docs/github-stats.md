@@ -25,21 +25,21 @@ Byte counts come from GitHub's public repository language API (default branch, a
 
 | Language | Bytes | Share |
 | :--- | ---: | ---: |
-| Dart | 563,046 | 30.20% |
-| JavaScript | 441,549 | 23.68% |
-| Python | 370,395 | 19.86% |
-| HTML | 314,850 | 16.89% |
-| SCSS | 98,161 | 5.26% |
-| C++ | 25,883 | 1.39% |
-| CMake | 19,838 | 1.06% |
-| CSS | 15,869 | 0.85% |
+| Dart | 563,046 | 29.71% |
+| JavaScript | 441,549 | 23.30% |
+| Python | 401,110 | 21.16% |
+| HTML | 314,850 | 16.61% |
+| SCSS | 98,161 | 5.18% |
+| C++ | 25,883 | 1.37% |
+| CMake | 19,838 | 1.05% |
+| CSS | 15,869 | 0.84% |
 | Dockerfile | 5,592 | 0.30% |
 | Shell | 2,647 | 0.14% |
 | Swift | 2,448 | 0.13% |
 | C | 1,425 | 0.08% |
 | Just | 1,239 | 0.07% |
 | Java | 783 | 0.04% |
-| Mako | 663 | 0.04% |
+| Mako | 663 | 0.03% |
 | Kotlin | 236 | 0.01% |
 | Objective-C | 38 | 0.00% |
 
