@@ -1,16 +1,16 @@
 # GitHub profile data
 
-Account: [mehroj-r](https://github.com/mehroj-r). Updated: **2026-10-12 (UTC)**.
+Account: [mehroj-r](https://github.com/mehroj-r). Updated: **2026-10-13 (UTC)**.
 
-Activity window: **2025-10-13 through 2026-10-12**, inclusive (365 days).
+Activity window: **2025-10-14 through 2026-10-13**, inclusive (365 days).
 
 ## Headline metrics
 
 | Metric | Value | Scope |
 | :--- | ---: | :--- |
-| Contributions | 4,393 | Displayed 365-day activity window |
-| Active days | 279 | Displayed 365-day activity window |
-| Longest streak | 27 | Displayed 365-day activity window |
+| Contributions | 4,455 | Displayed 365-day activity window |
+| Active days | 280 | Displayed 365-day activity window |
+| Longest streak | 29 | Displayed 365-day activity window |
 | Public originals | 12 | Current owned public nonfork repositories |
 | Stars received | 12 | Current owned public nonfork repositories |
 | Languages | 17 | Current owned public nonfork repositories |
@@ -25,21 +25,21 @@ Byte counts come from GitHub's public repository language API (default branch, a
 
 | Language | Bytes | Share |
 | :--- | ---: | ---: |
-| Dart | 563,046 | 29.71% |
-| JavaScript | 441,549 | 23.30% |
-| Python | 401,110 | 21.16% |
-| HTML | 314,850 | 16.61% |
-| SCSS | 98,161 | 5.18% |
-| C++ | 25,883 | 1.37% |
-| CMake | 19,838 | 1.05% |
-| CSS | 15,869 | 0.84% |
-| Dockerfile | 5,592 | 0.30% |
-| Shell | 2,647 | 0.14% |
-| Swift | 2,448 | 0.13% |
-| C | 1,425 | 0.08% |
-| Just | 1,239 | 0.07% |
+| Dart | 563,046 | 27.65% |
+| Python | 532,444 | 26.15% |
+| JavaScript | 441,549 | 21.69% |
+| HTML | 314,850 | 15.46% |
+| SCSS | 98,161 | 4.82% |
+| C++ | 25,883 | 1.27% |
+| CMake | 19,838 | 0.97% |
+| CSS | 15,869 | 0.78% |
+| Shell | 11,360 | 0.56% |
+| Dockerfile | 5,539 | 0.27% |
+| Swift | 2,448 | 0.12% |
+| C | 1,425 | 0.07% |
+| Mako | 1,268 | 0.06% |
+| Just | 1,239 | 0.06% |
 | Java | 783 | 0.04% |
-| Mako | 663 | 0.03% |
 | Kotlin | 236 | 0.01% |
 | Objective-C | 38 | 0.00% |
 
@@ -66,7 +66,6 @@ Accessible text equivalent of the heatmap. Dates are ISO 8601; counts are public
 
 | Date | Contributions |
 | :--- | ---: |
-| 2025-10-13 | 2 |
 | 2025-10-14 | 0 |
 | 2025-10-15 | 1 |
 | 2025-10-16 | 0 |
@@ -430,7 +429,8 @@ Accessible text equivalent of the heatmap. Dates are ISO 8601; counts are public
 | 2026-10-09 | 79 |
 | 2026-10-10 | 27 |
 | 2026-10-11 | 31 |
-| 2026-10-12 | 0 |
+| 2026-10-12 | 34 |
+| 2026-10-13 | 30 |
 
 ## Sources and refresh
 
