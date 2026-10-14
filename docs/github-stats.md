@@ -1,19 +1,19 @@
 # GitHub profile data
 
-Account: [mehroj-r](https://github.com/mehroj-r). Updated: **2026-10-13 (UTC)**.
+Account: [mehroj-r](https://github.com/mehroj-r). Updated: **2026-10-14 (UTC)**.
 
-Activity window: **2025-10-14 through 2026-10-13**, inclusive (365 days).
+Activity window: **2025-10-15 through 2026-10-14**, inclusive (365 days).
 
 ## Headline metrics
 
 | Metric | Value | Scope |
 | :--- | ---: | :--- |
-| Contributions | 4,455 | Displayed 365-day activity window |
-| Active days | 280 | Displayed 365-day activity window |
-| Longest streak | 29 | Displayed 365-day activity window |
-| Public originals | 12 | Current owned public nonfork repositories |
-| Stars received | 12 | Current owned public nonfork repositories |
-| Languages | 17 | Current owned public nonfork repositories |
+| Contributions | 4,538 | Displayed 365-day activity window |
+| Active days | 281 | Displayed 365-day activity window |
+| Longest streak | 30 | Displayed 365-day activity window |
+| Public originals | 13 | Current owned public nonfork repositories |
+| Stars received | 13 | Current owned public nonfork repositories |
+| Languages | 18 | Current owned public nonfork repositories |
 
 Contributions are taken from the **unauthenticated, publicly visible GitHub calendar**. They can include anonymized private activity only when the account has chosen to show it publicly. They are not a count of commits or hours worked. Active days have at least one contribution; the longest streak counts consecutive active days within this window, not a lifetime record.
 
@@ -25,21 +25,22 @@ Byte counts come from GitHub's public repository language API (default branch, a
 
 | Language | Bytes | Share |
 | :--- | ---: | ---: |
-| Dart | 563,046 | 27.65% |
-| Python | 532,444 | 26.15% |
-| JavaScript | 441,549 | 21.69% |
-| HTML | 314,850 | 15.46% |
-| SCSS | 98,161 | 4.82% |
-| C++ | 25,883 | 1.27% |
-| CMake | 19,838 | 0.97% |
-| CSS | 15,869 | 0.78% |
-| Shell | 11,360 | 0.56% |
-| Dockerfile | 5,539 | 0.27% |
-| Swift | 2,448 | 0.12% |
-| C | 1,425 | 0.07% |
-| Mako | 1,268 | 0.06% |
-| Just | 1,239 | 0.06% |
-| Java | 783 | 0.04% |
+| Python | 1,122,914 | 39.43% |
+| Dart | 563,046 | 19.77% |
+| JavaScript | 442,158 | 15.52% |
+| HTML | 315,302 | 11.07% |
+| TypeScript | 168,827 | 5.93% |
+| SCSS | 98,161 | 3.45% |
+| CSS | 65,134 | 2.29% |
+| C++ | 25,883 | 0.91% |
+| CMake | 19,838 | 0.70% |
+| Shell | 12,249 | 0.43% |
+| Dockerfile | 6,690 | 0.23% |
+| Swift | 2,448 | 0.09% |
+| Mako | 1,772 | 0.06% |
+| C | 1,425 | 0.05% |
+| Just | 1,239 | 0.04% |
+| Java | 783 | 0.03% |
 | Kotlin | 236 | 0.01% |
 | Objective-C | 38 | 0.00% |
 
@@ -55,6 +56,7 @@ Byte counts come from GitHub's public repository language API (default branch, a
 | [mehroj-r.github.io](https://github.com/mehroj-r/mehroj-r.github.io) | 1 |
 | [musicBot](https://github.com/mehroj-r/musicBot) | 1 |
 | [naziir-frontend](https://github.com/mehroj-r/naziir-frontend) | 1 |
+| [sentry-webhook](https://github.com/mehroj-r/sentry-webhook) | 1 |
 | [url_shortener](https://github.com/mehroj-r/url_shortener) | 1 |
 | [uzbekation](https://github.com/mehroj-r/uzbekation) | 1 |
 | [vibely](https://github.com/mehroj-r/vibely) | 1 |
@@ -66,7 +68,6 @@ Accessible text equivalent of the heatmap. Dates are ISO 8601; counts are public
 
 | Date | Contributions |
 | :--- | ---: |
-| 2025-10-14 | 0 |
 | 2025-10-15 | 1 |
 | 2025-10-16 | 0 |
 | 2025-10-17 | 0 |
@@ -418,8 +419,8 @@ Accessible text equivalent of the heatmap. Dates are ISO 8601; counts are public
 | 2026-09-28 | 89 |
 | 2026-09-29 | 40 |
 | 2026-09-30 | 31 |
-| 2026-10-01 | 55 |
-| 2026-10-02 | 33 |
+| 2026-10-01 | 65 |
+| 2026-10-02 | 36 |
 | 2026-10-03 | 65 |
 | 2026-10-04 | 64 |
 | 2026-10-05 | 29 |
@@ -430,7 +431,8 @@ Accessible text equivalent of the heatmap. Dates are ISO 8601; counts are public
 | 2026-10-10 | 27 |
 | 2026-10-11 | 31 |
 | 2026-10-12 | 34 |
-| 2026-10-13 | 30 |
+| 2026-10-13 | 77 |
+| 2026-10-14 | 23 |
 
 ## Sources and refresh
 
